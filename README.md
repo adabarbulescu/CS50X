@@ -5,3 +5,12 @@ enroll here: [CS50X](https://cs50.harvard.edu/x/2022/).
 # Table of contents
 :golf: Week-0
    * Scratch project
+
+:golf: Week-1
+   * Problem set
+     - Hello  
+     - Mario
+         - Less confortable
+         - More confortable
+     - Cash
+     - Credit
