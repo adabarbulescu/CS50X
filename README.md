@@ -9,8 +9,8 @@ enroll here: [CS50X](https://cs50.harvard.edu/x/2022/).
 :golf: Week-1
    * Problem set
      - [Hello](https://github.com/adabarbulescu/CS50X/tree/main/pset1/hello)  
-     - Mario
-         - Less confortable
-         - More confortable
+     - [Mario](https://github.com/adabarbulescu/CS50X/tree/main/pset1/mario)
+         - [Less confortable](https://github.com/adabarbulescu/CS50X/tree/main/pset1/mario/less)
+         - [More confortable](https://github.com/adabarbulescu/CS50X/tree/main/pset1/mario/more)
      - Cash
      - Credit
